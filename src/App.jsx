@@ -171,7 +171,7 @@ function App() {
       description:
         "Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from cyberattacks, data theft, breaches, unauthorized access, etc.",
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
+        "../public/type.png",
       date: "08 Sep, 2023",
       comment: "10 min Read",
     },
@@ -181,7 +181,7 @@ function App() {
       description:
         "Cybersecurity is an exponentially growing industry that is evolving to protect individuals & organizations from increasing cyber-attacks. Recently, The Artificial Intelligence(AI) Industry is playing a vital role in cybersecurity, improving the efficiency of various organizations & industries’ cybersecurity.",
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+        "../public/Aicyber.jpg",
       date: "25 Sep, 2023",
       comment: "10 min Read",
     },
@@ -191,7 +191,7 @@ function App() {
       description:
         "Cybersecurity & Ethical hacking and have been key in making sure that your data online is secure, users are authenticated & your data and privacy concerns are all kept safe.",
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-768x432.png",
+        "../public/Yellow.png",
       date: "1 Mar, 2021",
       comment: "10 min Read",
     },
@@ -252,7 +252,7 @@ function App() {
       description:
         "This is the question that we as an EdTech with courses in Full Stack Development often face from our newly enrolled students. Seeing this confusion cropping around for a while now, we decided to jump in, with a quick answer, to this in-vogue query about the career switch from non-IT to IT. ",
       image:
-        "https://www.guvi.in/blog/wp-content/uploads/2021/10/Non-tech-to-Tech-How-difficult-is-that.png",
+        "../public/nontech.png",
       date: "1 Dec, 2023",
       comment: "10 min Read",
     }
