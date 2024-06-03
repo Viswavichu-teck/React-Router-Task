@@ -7,6 +7,7 @@ import Career from './Component/Career'
 import Science from './Component/Science'
 import Nav from './Component/Nav'
 import "./index.css"
+import { Navigate } from 'react-router-dom'
 
 function App() {
 
@@ -265,7 +266,7 @@ function App() {
     <Route path='/cyber' element={<Cyber data={data}/>}/>
     <Route path='/career' element={<Career data={data}/>}/>
     <Route path='/science' element={<Science data={data}/>}/>
-    <Route path="*" element={<All data={data}/>} />
+    <Route path="*" element={<Navigate to='/'/>}/>
   </Routes>
   </BrowserRouter>
   </>
